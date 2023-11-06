@@ -1740,7 +1740,7 @@ body.homepage.is-preload #header:after {
     }
     
     .tab-contents ul {
-        text-align: left; /* Center-align the text within the ul element */
+        text-align: center; /* Center-align the text within the ul element */
         padding: 0;
         width: 100%; /* Set the ul to take up the full width of its container */
     }
