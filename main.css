@@ -1554,7 +1554,7 @@ body.homepage.is-preload #header:after {
       }
       
       .container-card img {
-        margin-bottom: 100px; /* Adjusted margin for better mobile compatibility */
+        margin-bottom: 160px; /* Adjusted margin for better mobile compatibility */
       }
       
       .bg-green-box,
