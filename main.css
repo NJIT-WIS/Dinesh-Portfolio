@@ -806,7 +806,7 @@ body.homepage.is-preload #header:after {
 }
 
 #nav > ul:before {
-    left: 80%;
+    left: 100%;
     margin-left: 1px;
 }
 
