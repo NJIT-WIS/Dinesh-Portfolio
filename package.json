@@ -4,8 +4,8 @@
   "description": "# Videos and Reference starter project Reference https://github.com/kaw393939/webdev1project/tree/master",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
-    "test":"npx playwright test",
+    "start": "node index.js",
+    "test": "npx playwright test",
     "lighthouse": "jest"
   },
   "keywords": [],
@@ -14,5 +14,8 @@
   "devDependencies": {
     "@playwright/test": "^1.39.0",
     "@types/node": "^20.8.10"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
