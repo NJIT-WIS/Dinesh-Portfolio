@@ -811,7 +811,7 @@ body.homepage.is-preload #header:after {
 }
 
 #nav > ul:after {
-    right: 80%;
+    right: 100%;
     margin-right: 1px;
 }
 
