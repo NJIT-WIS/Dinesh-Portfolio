@@ -1675,7 +1675,7 @@ body.homepage.is-preload #header:after {
         content:" ";
         width:0;
         height:3px;
-        background: red;
+        background: #d87833;
         position:absolute;
         left:0;
         bottom:-8px;
