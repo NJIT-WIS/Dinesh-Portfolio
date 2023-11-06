@@ -1666,7 +1666,7 @@ body.homepage.is-preload #header:after {
     
     .tab-links {
         margin-right: 20px; /* Adjust the margin as needed */
-        font-size: 18px;
+        font-size: 22px;
         font-weight: 500;
         cursor: pointer;
         position: relative;
