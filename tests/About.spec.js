@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
 
-const websiteURL = 'http://24.0.58.91:5500/Aboutme.html';
+const websiteURL = 'https://njit-wis.github.io/midterm-portfolio-dsk1513/Aboutme.html';
 
 const expectedAboutTitle='About Me';
 
