@@ -1546,7 +1546,7 @@ body.homepage.is-preload #header:after {
       
       .container-card {
         position: relative;
-        border: 5px solid transparent;
+        border: 10px solid transparent;
         background: linear-gradient(71deg, #080509, #1a171c, #080509);
         background-clip: padding-box;
         border-radius: 20px; /* Adjusted for better mobile compatibility */
