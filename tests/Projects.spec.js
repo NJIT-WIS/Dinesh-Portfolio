@@ -4,7 +4,7 @@ const { test, expect } = require('@playwright/test');
 const websiteURL = 'http://127.0.0.1:5500/Projects.html';
 
 
-const expectedProjectTitle='Dinesh Projects- Google clone, React SPD, ProjectFarm, LeaveManager';
+const expectedProjectTitle='Dinesh Challa Projects';
 
 const expectedProjectMetaDescription="Dinesh Projects- Google clone, React SPD, ProjectFarm, LeaveManager";
 
