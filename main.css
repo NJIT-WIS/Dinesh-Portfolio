@@ -1666,6 +1666,19 @@ body.homepage.is-preload #header:after {
         position: absolute;
         margin: 10px; /* Adjust the margin as needed */
         
+              /* Mobile View */
+              @media screen and (max-width: 767px) {
+                top: calc(100% - 40px); /* Align to the bottom center on mobile */
+                left: 50%; /* Center align horizontally */
+                transform: translateX(-50%); /* Center horizontally */
+              }
+            
+              /* Desktop View */
+              @media screen and (min-width: 768px) {
+                top: 0;
+                right: 0;
+                transform: none; /* Reset the transform for desktop */
+              }
       
        
         color: #db8224; /* Adjust the color as needed */
