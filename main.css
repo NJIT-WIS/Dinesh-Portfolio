@@ -1752,7 +1752,7 @@ body.homepage.is-preload #header:after {
     }
     
     .tab-contents ul li span {
-        color: red;
+        color: #db8224;
         font-weight: bolder;
     }
     
