@@ -1626,7 +1626,7 @@ body.homepage.is-preload #header:after {
       
       #react-icon {
         position: absolute;
-        margin: 5px; /* Adjust the margin as needed */
+        margin: 10px; /* Adjust the margin as needed */
         
       
         /* Mobile View */
