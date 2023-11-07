@@ -1,3 +1,46 @@
+
+
+Website url- [here](https://njit-wis.github.io/midterm-portfolio-dsk1513/)
+Figma link- [here](https://www.figma.com/file/Y1Pv7V5WFrAvOaqbwPLcSJ/Mid-Term?type=design&node-id=29-3&mode=design&t=MlEGyLhQWp1Wn9xz-0)
+
+#Desktop view
+
+figma home page   - [here](desktop-1.png)
+
+figma projects page - [here](desktop-2.png)
+
+figma aboutme page - [here](desktop-3.png)
+
+#Mobile view
+
+figma home page   - [here](mobile-1.png)
+
+figma projects page - [here](mobile-2.png)
+
+figma aboutme page - [here](mobile-3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Midterm Webdev 1
 
 # Videos and Reference starter project Reference
