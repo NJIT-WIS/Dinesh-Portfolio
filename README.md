@@ -1,6 +1,6 @@
 
 
-Website url- [here](https://njit-wis.github.io/midterm-portfolio-dsk1513/index.html)
+Website url- [here](https://njit-wis.github.io/Dinesh-Portfolio/)
 
 Figma link- [here](https://www.figma.com/file/Y1Pv7V5WFrAvOaqbwPLcSJ/Mid-Term?type=design&node-id=29-3&mode=design&t=MlEGyLhQWp1Wn9xz-0)
 
